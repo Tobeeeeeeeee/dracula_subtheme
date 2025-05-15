@@ -1,0 +1,5 @@
+# Schema for the configuration files of the Bootstrap Barrio Subtheme.
+
+kyckling_kanel.settings:
+type: theme_settings
+label: 'kyckling_kanel settings'

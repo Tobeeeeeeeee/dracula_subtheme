@@ -1,0 +1,57 @@
+﻿/* Dracula colors with raw hex values and max specificity */
+
+html body {
+  background-color: #282a36 !important;
+  color: #f8f8f2 !important;
+}
+
+html body h1,
+html body h2,
+html body h3,
+html body h4,
+html body h5,
+html body h6 {
+  color: #ff79c6 !important;
+}
+
+html body .text-pink { color: #ff79c6 !important; }
+html body .text-orange { color: #ffb86c !important; }
+html body .text-purple { color: #bd93f9 !important; }
+html body .text-white { color: #f8f8f2 !important; }
+
+html body .bg-dark { background-color: #282a36 !important; }
+html body .bg-gray-dark { background-color: #44475a !important; }
+
+html body .border-gray { border: 1px solid #6272a4 !important; }
+
+html body .navbar,
+html body .region-header,
+html body .region-footer {
+  background-color: #44475a !important;
+  color: #f8f8f2 !important;
+}
+
+html body a {
+  color: #ff79c6 !important;
+}
+html body a:hover,
+html body a:focus {
+  color: #ffb86c !important;
+}
+
+html body .card,
+html body .block {
+  background-color: #44475a !important;
+  color: #f8f8f2 !important;
+  border: 1px solid #6272a4 !important;
+}
+
+html body .btn-primary {
+  background-color: #bd93f9 !important;
+  border-color: #bd93f9 !important;
+  color: #282a36 !important;
+}
+html body .btn-primary:hover {
+  background-color: #ff79c6 !important;
+  color: #f8f8f2 !important;
+}
